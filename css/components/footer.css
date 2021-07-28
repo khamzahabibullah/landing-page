@@ -1,0 +1,26 @@
+.footer-backdrop {
+  background-color: #2c2b2b;
+  margin: 0px;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.footer-backdrop .container ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  margin-bottom: 0;
+}
+
+.footer-backdrop .container ul li {
+  padding: 20px 10px;
+}
+
+.footer-backdrop .container p {
+  margin:0;
+  padding-bottom: 30px;
+  opacity: 0.6;
+  padding-left: 32px;
+}

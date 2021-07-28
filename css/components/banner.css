@@ -1,0 +1,16 @@
+.banner {
+  color: white;
+  display: flex;
+  text-align: center;
+  height: 500px;
+  align-items: center;
+}
+
+.banner .container p {
+  margin-bottom: 40px;
+  opacity: 0.8;
+}
+
+.banner .container {
+  text-align: left;
+}
